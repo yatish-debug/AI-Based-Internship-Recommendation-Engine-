@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Data Science Intern",
+    "description": "Assist in building predictive models, data cleaning, and feature engineering using Python and scikit-learn.",
+    "location": "Pune",
+    "skills": ["Python", "Pandas", "scikit-learn", "Machine Learning"],
+    "duration": "3 months"
+  },
+  {
+    "title": "Frontend Developer Intern",
+    "description": "Work on React components, state management, and UI testing. Collaborate with designers to ship accessible features.",
+    "location": "Remote",
+    "skills": ["JavaScript", "React", "CSS", "Testing"],
+    "duration": "4 months"
+  },
+  {
+    "title": "Backend Engineering Intern",
+    "description": "Develop REST APIs with FastAPI, write unit tests, and work with PostgreSQL and Docker in a cloud environment.",
+    "location": "Bengaluru",
+    "skills": ["Python", "FastAPI", "SQL", "Docker"],
+    "duration": "6 months"
+  }
+]
